@@ -1,0 +1,31 @@
+0000000000000000000000000000000000000000 c29ddad1ba487a865f3376c85ba8c99b7b0b5b46 skillbox-koutja <skillbox-koutja@yandex.ru> 1676540312 +0300	commit (initial): init
+c29ddad1ba487a865f3376c85ba8c99b7b0b5b46 9198198d62415257003d27d0d715fedab8bff5ca skillbox-koutja <skillbox-koutja@yandex.ru> 1676540363 +0300	commit (amend): init
+9198198d62415257003d27d0d715fedab8bff5ca 238a72db1ae16a1ae81d029a41b5424d065eabd2 skillbox-koutja <skillbox-koutja@yandex.ru> 1676557689 +0300	commit: Inherited Widget: ThemeViewModel
+238a72db1ae16a1ae81d029a41b5424d065eabd2 387596cf82663851f7fbc88fff1c470e147140e4 skillbox-koutja <skillbox-koutja@yandex.ru> 1676559922 +0300	commit (amend): Inherited Widget: ThemeViewModel
+387596cf82663851f7fbc88fff1c470e147140e4 a79779d3cb27b67893abd68219d5a8ab5a87a709 skillbox-koutja <skillbox-koutja@yandex.ru> 1676589995 +0300	commit: Иконка погоды
+a79779d3cb27b67893abd68219d5a8ab5a87a709 3a806fe7f95bbea82870ed8d8aa320ddc0ef10de skillbox-koutja <skillbox-koutja@yandex.ru> 1676642735 +0300	commit: cloud opacity
+3a806fe7f95bbea82870ed8d8aa320ddc0ef10de c89ab63e4650b7cbd2372b7b69e1b52f70068c1d skillbox-koutja <skillbox-koutja@yandex.ru> 1676648219 +0300	commit: возможность масштабирования погоды
+c89ab63e4650b7cbd2372b7b69e1b52f70068c1d 0e2e059f802788bf1fd069dee84d7cf5fbd4d00e skillbox-koutja <skillbox-koutja@yandex.ru> 1676649429 +0300	commit: виджет, который каким-либо образом декорирует текст
+0e2e059f802788bf1fd069dee84d7cf5fbd4d00e 00d6989b84a7a0e0f6bcc1bf944dd5f0e0a8d29e skillbox-koutja <skillbox-koutja@yandex.ru> 1676649477 +0300	commit (amend): виджет, который каким-либо образом декорирует текст
+00d6989b84a7a0e0f6bcc1bf944dd5f0e0a8d29e da3170a9b54d7338bfa09a6976e8ea508f040924 skillbox-koutja <skillbox-koutja@yandex.ru> 1676649627 +0300	commit: удаление зависимостей
+da3170a9b54d7338bfa09a6976e8ea508f040924 f6d274fbec54c0baeee5e5d9264b36c6825f93f7 skillbox-koutja <skillbox-koutja@yandex.ru> 1676649692 +0300	commit: readme uppdate
+f6d274fbec54c0baeee5e5d9264b36c6825f93f7 9198198d62415257003d27d0d715fedab8bff5ca skillbox-koutja <skillbox-koutja@yandex.ru> 1676649737 +0300	rebase (start): checkout 9198198d62415257003d27d0d715fedab8bff5ca
+9198198d62415257003d27d0d715fedab8bff5ca 387596cf82663851f7fbc88fff1c470e147140e4 skillbox-koutja <skillbox-koutja@yandex.ru> 1676649737 +0300	rebase: fast-forward
+387596cf82663851f7fbc88fff1c470e147140e4 47863b89403d079da3066932c08d1e984dce4fe8 skillbox-koutja <skillbox-koutja@yandex.ru> 1676649737 +0300	rebase (reword): виджет, который каким-либо образом декорирует текст
+47863b89403d079da3066932c08d1e984dce4fe8 e7398e6cbdbeea3350297e0bdc1178cc4d79d3bb skillbox-koutja <skillbox-koutja@yandex.ru> 1676649738 +0300	rebase (fixup):  This is a combination of 2 commits.
+e7398e6cbdbeea3350297e0bdc1178cc4d79d3bb 56cb0744a066f2f1d52b9bc74890195f6ccb66db skillbox-koutja <skillbox-koutja@yandex.ru> 1676649738 +0300	rebase (fixup):  This is a combination of 3 commits.
+56cb0744a066f2f1d52b9bc74890195f6ccb66db d167444281312a3f19332495ad31e6bf03905051 skillbox-koutja <skillbox-koutja@yandex.ru> 1676649738 +0300	rebase (fixup):  This is a combination of 4 commits.
+d167444281312a3f19332495ad31e6bf03905051 4364d17afb72e4f3066e39db9a0f641655869c76 skillbox-koutja <skillbox-koutja@yandex.ru> 1676649738 +0300	rebase (fixup):  This is a combination of 5 commits.
+4364d17afb72e4f3066e39db9a0f641655869c76 e643b1c659469b1d2511b30a645cda4536d39570 skillbox-koutja <skillbox-koutja@yandex.ru> 1676649738 +0300	rebase (fixup):  This is a combination of 6 commits.
+e643b1c659469b1d2511b30a645cda4536d39570 f53c0bf5c3f18ea67a84c51b40b7fcc33fe3d9da skillbox-koutja <skillbox-koutja@yandex.ru> 1676649738 +0300	rebase (fixup): виджет, который каким-либо образом декорирует текст
+f53c0bf5c3f18ea67a84c51b40b7fcc33fe3d9da f53c0bf5c3f18ea67a84c51b40b7fcc33fe3d9da skillbox-koutja <skillbox-koutja@yandex.ru> 1676649738 +0300	rebase (finish): returning to refs/heads/main
+f53c0bf5c3f18ea67a84c51b40b7fcc33fe3d9da c49f2e34fc340352389ead292805f0bebd7a0a61 skillbox-koutja <skillbox-koutja@yandex.ru> 1676649826 +0300	commit (amend): виджет, который каким-либо образом декорирует текст
+c49f2e34fc340352389ead292805f0bebd7a0a61 c49f2e34fc340352389ead292805f0bebd7a0a61 skillbox-koutja <skillbox-koutja@yandex.ru> 1676649922 +0300	checkout: moving from main to demo-video
+c49f2e34fc340352389ead292805f0bebd7a0a61 e47aba6e126d809020f27a2b0268a745f75e0840 skillbox-koutja <skillbox-koutja@yandex.ru> 1676649978 +0300	commit: v
+e47aba6e126d809020f27a2b0268a745f75e0840 c49f2e34fc340352389ead292805f0bebd7a0a61 skillbox-koutja <skillbox-koutja@yandex.ru> 1676650032 +0300	checkout: moving from demo-video to main
+c49f2e34fc340352389ead292805f0bebd7a0a61 62072b209bf925beda607e3fdc2eebc397658ab1 skillbox-koutja <skillbox-koutja@yandex.ru> 1676650036 +0300	pull: Fast-forward
+62072b209bf925beda607e3fdc2eebc397658ab1 2295b7e32b5a4ffa93a0e1558cd57e0447d126b5 skillbox-koutja <skillbox-koutja@yandex.ru> 1676650154 +0300	commit (amend): Merge pull request #1 from skillbox-koutja/demo-video
+2295b7e32b5a4ffa93a0e1558cd57e0447d126b5 2295b7e32b5a4ffa93a0e1558cd57e0447d126b5 skillbox-koutja <skillbox-koutja@yandex.ru> 1676650209 +0300	checkout: moving from main to v2
+2295b7e32b5a4ffa93a0e1558cd57e0447d126b5 2295b7e32b5a4ffa93a0e1558cd57e0447d126b5 skillbox-koutja <skillbox-koutja@yandex.ru> 1676650268 +0300	checkout: moving from v2 to main
+2295b7e32b5a4ffa93a0e1558cd57e0447d126b5 808b432acb5e29800f902c03e0a8131b95343f68 skillbox-koutja <skillbox-koutja@yandex.ru> 1676650281 +0300	commit (amend): Merge pull request #1 from skillbox-koutja/demo-video
+808b432acb5e29800f902c03e0a8131b95343f68 5466976eba8200c495e506d91cfaf603530d278b skillbox-koutja <skillbox-koutja@yandex.ru> 1676650332 +0300	commit (amend): Merge pull request #1 from skillbox-koutja/demo-video
